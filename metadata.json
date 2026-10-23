@@ -1,0 +1,8 @@
+{
+  "name": "CareTrack - Virus Treatment Centre Management",
+  "description": "Responsive clinical tracking application for virus treatment centres featuring bed occupancy, temperature monitoring, doctor rounds, discharge qualification, and epidemiological reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
